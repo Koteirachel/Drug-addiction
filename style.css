@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui;
+  background-color: pink;
+}
+  color: black;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+}
